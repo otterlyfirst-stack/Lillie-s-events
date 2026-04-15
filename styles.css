@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #fff;
+}
+
+header {
+  background: linear-gradient(135deg, #f8e1e7, #ffffff);
+  padding: 60px 20px;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 0;
+  color: #222;
+}
+
+p {
+  color: #555;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: gold;
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.services, .gallery, .contact {
+  padding: 50px 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  padding: 10px;
+  font-size: 18px;
+}
